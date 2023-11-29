@@ -3,7 +3,7 @@
 
 | Образовательная платформа | Название курса | Ссылка на сертификат курса или файл | Месяц и год окончания | Полученные навыки |
 | -------- | -------- | -------- |  -------- |  -------- |
-| [stepik](https://stepik.org/course/116332/promo) | SQL для Анализа Данных с Глебом Михайловым | сертификат| декабрь 2023  | Join, CTE, WinFun, Google Colab, Python |
+| [stepik](https://stepik.org/course/116332/promo) | SQL для Анализа Данных с Глебом Михайловым | [сертификат](https://github.com/Lisittsa2050/Certificates/blob/main/Сертификаты/SQL_for_data_analysis_Gleb.pdf)| декабрь 2023  | Join, CTE, WinFun, Google Colab, Python |
 | [stepik](https://stepik.org/course/63054/promo) | Оконные функции SQL | [сертификат](https://github.com/Lisittsa2050/Certificates/blob/main/Сертификаты/SQL_Windows_Functions.pdf)| декабрь 2023  | Windows Functions |
 | [stepik](https://stepik.org/course/70987/promo)| Основы работы с Redash | - | декабрь 2023 | Сбор и визуализация данных. Создание дашбордов |
 | [Яндекс.Практикум](https://cloud.yandex.ru/training/datalens) | Основы работы с DataLens  | - | декабрь 2023 | Построение графиков и чартов. Верстка дашборда и настройка интерактивности |
