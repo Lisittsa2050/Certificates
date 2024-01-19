@@ -4,7 +4,7 @@
 | Образовательная платформа | Название курса | Ссылка на сертификат курса или файл | Месяц и год окончания | Полученные навыки |
 | -------- | -------- | -------- |  -------- |  -------- |
 | [stepik](https://stepik.org/course/67/promo) | Программирование на Python  | сертификат |  2024 (42% выпол.) | Python |
-| [stepik](https://stepik.org/course/76/promo) | Основы статистики  | сертификат |  2024  |  Математическая статистика |
+| [stepik](https://stepik.org/course/76/promo) | Основы статистики: ч.1  | сертификат |  2024  |  Центральная предельная теорема, cравнение средних, корреляция и регрессия, непараметрические методы, кластерный анализ, линейная регрессия, bootstrap |
 | [stepik](https://stepik.org/course/10425/promo) | Jira: ведение задач на электронных досках  | [сертификат](https://github.com/Lisittsa2050/Certificates/blob/main/Сертификаты/stepik_jira_2024.pdf) | январь 2024 | Issue types, Fields, Screens, Workflows, Boards, Notifications, Permissions, Search issues, Filters |
 | [stepik](https://stepik.org/course/116332/promo) | SQL для Анализа Данных с Глебом Михайловым | [сертификат](https://github.com/Lisittsa2050/Certificates/blob/main/Сертификаты/SQL_for_data_analysis_Gleb.pdf)| декабрь 2023  | Join, CTE, WinFun, Google Colab, Python |
 | [stepik](https://stepik.org/course/63054/promo) | Оконные функции SQL | [сертификат](https://github.com/Lisittsa2050/Certificates/blob/main/Сертификаты/SQL_Windows_Functions.pdf)| декабрь 2023  | Windows Functions |
