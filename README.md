@@ -40,4 +40,10 @@
 | -------- | -------- | -------- |  -------- |  -------- |
 | [stepik](https://stepik.org/course/10425/promo) | Jira: ведение задач на электронных досках  | [сертификат](https://github.com/Lisittsa2050/Certificates/blob/main/Сертификаты/stepik_jira_2024.pdf) | январь 2024 | Issue types, Fields, Screens, Workflows, Boards, Notifications, Permissions, Search issues, Filters |
 
+## MS Excel
+| Образовательная платформа | Название курса | Ссылка на сертификат курса или файл | Месяц и год окончания | Полученные навыки |
+| -------- | -------- | -------- |  -------- |  -------- |
+| [stepik](https://stepik.org/course/118984/promo) | Power Query и сводные отчеты в MS Excel | сертификат | 2024 | Power Query |
+
+
 
