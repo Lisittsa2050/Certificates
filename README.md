@@ -44,6 +44,6 @@
 | Образовательная платформа | Название курса | Ссылка на сертификат курса или файл | Месяц и год окончания | Полученные навыки |
 | -------- | -------- | -------- |  -------- |  -------- |
 | [stepik](https://stepik.org/course/118984/promo) | Power Query и сводные отчеты в MS Excel | сертификат | 2024 | Power Query |
-| [stepik](https://stepik.org/course/178980/promo) | Работа с данными в Power Pivot | сертификат | 2024 | Power Pivot |
+| [stepik](https://stepik.org/course/178980/promo) | Работа с данными в Power Pivot | [Пройдено 100%] | декабрь 2024 | Power Pivot |
 
 
