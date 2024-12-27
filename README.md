@@ -35,14 +35,13 @@
 | [Яндекс.Практикум](https://cloud.yandex.ru/training/datalens) | Основы работы с DataLens | [Пройдено 100%](https://github.com/Lisittsa2050/Certificates/blob/main/Сертификаты/DataLens_yandex.pdf) | декабрь 2023 | Построение графиков и чартов. Верстка дашборда и настройка интерактивности. Карты. Доступы (Администрирование). Вычисляемые поля. |
 | [stepik](https://stepik.org/course/70987/promo)| Основы работы с Redash | [Пройдено 100%](https://github.com/Lisittsa2050/Certificates/blob/main/Сертификаты/redash_stepik.pdf) | декабрь 2023 | Сбор и визуализация данных. Создание дашбордов |
 
-## Другие Технологии
-| Образовательная платформа | Название курса | Ссылка на сертификат курса или файл | Месяц и год окончания | Полученные навыки |
-| -------- | -------- | -------- |  -------- |  -------- |
-| [stepik](https://stepik.org/course/10425/promo) | Jira: ведение задач на электронных досках  | [сертификат](https://github.com/Lisittsa2050/Certificates/blob/main/Сертификаты/stepik_jira_2024.pdf) | январь 2024 | Issue types, Fields, Screens, Workflows, Boards, Notifications, Permissions, Search issues, Filters |
-
 ## MS Excel
 | Образовательная платформа | Название курса | Ссылка на сертификат курса или файл | Месяц и год окончания | Полученные навыки |
 | -------- | -------- | -------- |  -------- |  -------- |
 | [stepik](https://stepik.org/course/118984/promo) | Power Query и сводные отчеты в MS Excel | сертификат | 2024 | Power Query |
 | [stepik](https://stepik.org/course/178980/promo) | Работа с данными в Power Pivot | [Пройдено 100%](https://github.com/Lisittsa2050/Certificates/blob/main/Сертификаты/Power_Pivot.pdf) | декабрь 2024 | Power Pivot |
 
+## Другие Технологии
+| Образовательная платформа | Название курса | Ссылка на сертификат курса или файл | Месяц и год окончания | Полученные навыки |
+| -------- | -------- | -------- |  -------- |  -------- |
+| [stepik](https://stepik.org/course/10425/promo) | Jira: ведение задач на электронных досках  | [сертификат](https://github.com/Lisittsa2050/Certificates/blob/main/Сертификаты/stepik_jira_2024.pdf) | январь 2024 | Issue types, Fields, Screens, Workflows, Boards, Notifications, Permissions, Search issues, Filters |
