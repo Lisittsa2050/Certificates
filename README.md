@@ -42,7 +42,6 @@
 ## MS Excel
 | Образовательная платформа | Название курса | Ссылка на сертификат курса или файл | Месяц и год окончания | Полученные навыки |
 | -------- | -------- | -------- |  -------- |  -------- |
-| [stepik](https://stepik.org/course/144530/promo) | Excel Power Query и Pivot (+BI): с 0 до бизнес-пользователя | сертификат | 2025 | Power Pivot, Power Query, DAX, Power BI|
 | [stepik](https://stepik.org/course/118984/promo) | Power Query и сводные отчеты в MS Excel | [сертификат](https://github.com/Lisittsa2050/Certificates/blob/main/Сертификаты/Power_Query_Svodn.pdf) | 2024 | Power Query |
 | [stepik](https://stepik.org/course/178980/promo) | Работа с данными в Power Pivot | [Пройдено 100%](https://github.com/Lisittsa2050/Certificates/blob/main/Сертификаты/Power_Pivot.pdf) | 2024 | Power Pivot |
 
