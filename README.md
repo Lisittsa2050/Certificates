@@ -33,7 +33,7 @@
 ## Bi системы
 | Образовательная платформа | Название курса | Ссылка на сертификат курса или файл | Год окончания| Полученные навыки |
 | -------- | -------- | -------- |  -------- |  -------- |
-| [stepik](https://stepik.org/course/215033/promo) | Расширенный\Advanced DAX для бизнес-пользователей | сертификат | 2026 | Power BI (CALCULATE, USERELATIONSHIP, WINDOW, SWITCH c TRUE, мат., фин. и стат. функции) |
+| [stepik](https://stepik.org/course/215033/promo) | Расширенный\Advanced DAX для бизнес-пользователей |  [Сертификат](https://github.com/Lisittsa2050/Certificates/blob/main/Сертификаты/Advanced_DAX.pdf) | 2026 | Power BI (CALCULATE, USERELATIONSHIP, WINDOW, SWITCH c TRUE, мат., фин. и стат. функции) |
 | [stepik](https://stepik.org/course/138385/promo) | Power BI: от новичка до уверенного бизнес-пользователя | [Сертификат](https://github.com/Lisittsa2050/Certificates/blob/main/Сертификаты/PowerBi_business_user.pdf)| 2026 | ETL, DAX, Dashboard, BI Service |
 | [Яндекс.Практикум](https://cloud.yandex.ru/training/datalens) | Основы работы с DataLens | [Статус: 100%](https://github.com/Lisittsa2050/Certificates/blob/main/Сертификаты/DataLens_yandex.pdf) | 2023 | Построение графиков и чартов. Верстка дашборда и настройка интерактивности. Карты. Доступы (Администрирование). Вычисляемые поля. |
 | [stepik](https://stepik.org/course/70987/promo)| Основы работы с Redash | [Статус: 100%](https://github.com/Lisittsa2050/Certificates/blob/main/Сертификаты/redash_stepik.pdf) | 2023 | Сбор и визуализация данных. Создание дашбордов |
